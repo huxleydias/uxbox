@@ -1,0 +1,50 @@
+ /*
+Theme Name: UX BOX
+Theme URI: http://www.uxbox.com.br
+Description: Tema desenvolvida para o site UXBOX desenvolvido por <a href="http://www.huxleydias.com.br/">Huxley Dias</a>
+Author: Huxley Dias
+Version: 0.1
+License: Privado
+*/
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -o-box-sizing:border-box;
+}
+html {
+    background:#fff;
+}
+body{
+    letter-spacing: 1px;
+    line-height: 170%;
+    font-family:'Monda', sans-serif;
+    }
+h1, h2, h3, h4, h5, h6, p, a{
+    color:#333;
+    font-family: 'Monda', sans-serif;
+}
+a:hover{
+    color: #394428;
+    text-decoration: none;
+}
+p{
+    font-family: 'Gilda Display', serif;
+    font-size: 14px;
+    line-height: 160%;
+    margin-bottom: 10px;
+}
+html, body, .container-page{
+    width:100%;
+    margin:0;
+    height:100%;
+    position:relative;
+    float:left;
+    display: block;
+    padding: 0
+}
