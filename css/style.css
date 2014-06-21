@@ -1545,3 +1545,7 @@ section * {
   text-align: center;
   margin-bottom: 55px;
 }
+/*response mailchimp*/
+.signup-form .response{
+  color: #fff
+}
